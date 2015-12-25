@@ -1,0 +1,28 @@
+name: JoeMcMillen
+favicon: null
+layout_spectrum: 0.29575462033972144
+typography_spectrum: 0.22973789577372372
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.054388796677812934
+  lightness: 0.7922749978024513
+  saturation: 0.10722577897831798
+  rhythmicContrast: 0.5161252554971725
+purpose: []
