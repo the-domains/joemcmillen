@@ -4,8 +4,15 @@
         <description><![CDATA[Leadership Development and a Daily Learning Habit]]></description>
         <link>http://www.onethousandzeros.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 12:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 12:24:12 GMT</lastBuildDate>
         <atom:link href="http://www.onethousandzeros.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Measuring Performance in a Remote Workplace]]></title>
+            <description><![CDATA[<article><h1>Measuring Performance in a Remote Workplace</h1><p>One piece that has come up repeatedly in discussing the advantages and disadvantages of remote work is this question of performance measurement - if you're leading a team, but you aren't in the same room, or office, or even continent, how can you be sure that they are performing well?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09a2725ac4ef36a7c2a3a69f78dbd40a51e9c9cb.jpg"></article>]]></description>
+            <link>http://s12k.com/2016/02/01/measuring-performance-in-a-remote-workplace/</link>
+            <guid isPermaLink="false">b7645e17-fb25-472d-a9da-a494f522e180</guid>
+            <pubDate>Sat, 27 Feb 2016 12:22:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA['Originals': How Anyone Can Become a Trailblazer]]></title>
             <description><![CDATA[<article><h1>'Originals': How Anyone Can Become a Trailblazer</h1><p>A new book by Wharton management professor Adam Grant challenges our assumptions about what it takes to generate and champion original ideas in ourselves and others. In Originals: How Non-Conformists Move the World, Grant reveals what we can learn from entrepreneurs and other trailblazers to help us think differently and to make our voices heard.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c54cbc8d2d8f1bd9cc783ba9a3132f461e77556.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.strategy-business.com/blog/Why-It-Makes-Sense-for-Managers-to-Go-Slow-to-Go-Fast</link>
             <guid isPermaLink="false">b7570696-4abe-4208-b1f5-9fc6409c9ffb</guid>
             <pubDate>Sat, 20 Feb 2016 20:53:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dysfunctional Momentum Can Undermine Company Values]]></title>
-            <description><![CDATA[<article><h1>Dysfunctional Momentum Can Undermine Company Values</h1><p>Every time a great business crashes and burns, we are reminded of a simple truth of human behavior: dysfunctional momentum eats values for breakfast. First defined by safety researchers Michelle A. Barton and Kathleen M. Sutcliffe, dysfunctional momentum occurs when people persist in working toward a goal despite evidence that their course of action will fail.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e95d935aa575c6944e139985ea78b74c6b90e1b8.jpg"></article>]]></description>
-            <link>http://www.strategy-business.com/blog/Dysfunctional-Momentum-Can-Undermine-Company-Values?rssid=all_updates&amp;gko=a655c</link>
-            <guid isPermaLink="false">5130f1af-a10b-43ac-af45-28f071f4f495</guid>
-            <pubDate>Sat, 20 Feb 2016 20:52:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
